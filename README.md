@@ -23,4 +23,4 @@
 <br>
 
 ## 캘린더 구현 모습
-<img src="https://user-images.githubusercontent.com/95006849/164397203-dc8c295d-942b-4d2d-9538-a15bcfedcbd7.jpg">
+<img src="https://user-images.githubusercontent.com/95006849/164401927-48bcc3b5-6389-4227-8f4b-b547eca33b15.gif">
