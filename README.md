@@ -19,3 +19,8 @@
 - 해당 날짜 표시
 - 해당 연도, 월 표시
 - 지난달 날짜, 다음달 날짜 표시 (흐리게 구분)
+<br>
+<br>
+
+## 캘린더 구현 모습
+<img src="https://user-images.githubusercontent.com/95006849/164397203-dc8c295d-942b-4d2d-9538-a15bcfedcbd7.jpg">
