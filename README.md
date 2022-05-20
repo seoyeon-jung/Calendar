@@ -8,9 +8,12 @@
 <a href="https://seoyeon-jung.github.io/Calendar/">📅My Calendar</a>
 <br>
 <br>
+<br>
 
 ## 사용한 기술 스택
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html&logoColor=#E34F26"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=#1572B6"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=html&logoColor=#F7DF1E">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <br>
 <br>
 <br>
