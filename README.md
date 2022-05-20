@@ -1,9 +1,11 @@
 # 간단한 캘린더 만들기
 - 자바스크립트 간단한 프로젝트를 목표로 시작
 - <a href="https://www.youtube.com/watch?v=jFmcH5GVRs4">17분 안에 자바스크립트로 달력 만들기! Full Calendar with JavaScript</a> 참고
-- 22.04.19 기준 개선할 사항 많음 (추후 개선 필요)
+- 추후 개선 필요
 <br>
 <br>
+<h2> 캘린더 보러가기</h2>
+<a href="https://seoyeon-jung.github.io/Calendar/">📅My Calendar</a>
 <br>
 <br>
 
